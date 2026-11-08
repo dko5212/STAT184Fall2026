@@ -1,0 +1,3 @@
+dataset,publisher,dataset_id,page_url,download_url,local_file,format,license,accessed
+"Libraries - Locations, Contact Information, and Usual Hours of Operation",City of Chicago Data Portal,x8fc-8rcq,https://data.cityofchicago.org/d/x8fc-8rcq,https://data.cityofchicago.org/resource/x8fc-8rcq.csv?$limit=5000,data/raw/libraries_raw.csv,CSV,City of Chicago Data Portal Terms of Use,2026-11-08
+Boundaries - Community Areas,City of Chicago Data Portal,igwz-8jzy,https://data.cityofchicago.org/d/igwz-8jzy,https://data.cityofchicago.org/resource/igwz-8jzy.geojson?$limit=5000,data/raw/community_areas_raw.geojson,GeoJSON,City of Chicago Data Portal Terms of Use,2026-11-08
